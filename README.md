@@ -1,1 +1,1 @@
-# statistics.github.io
+# 統計学習関連ページ
