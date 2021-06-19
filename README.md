@@ -9,3 +9,6 @@
 * 見せかけの回帰とその対策
 * VARモデル
 * ARCH、GARCHモデル
+
+## dtw(動的時間伸縮法)のライブラリ使い方
+[https://yoshi-cow.github.io/statistics.github.io/dtw.html
