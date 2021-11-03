@@ -17,3 +17,6 @@
 
 ## dtw(動的時間伸縮法)のライブラリ使い方
 [https://yoshi-cow.github.io/statistics.github.io/dtw.html]
+
+## ARIMAモデルなどの利用例
+[https://yoshi-cow.github.io/statistics.github.io/time_series_sample_code.html]
