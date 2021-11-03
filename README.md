@@ -22,4 +22,4 @@
 [https://yoshi-cow.github.io/statistics.github.io/time_series_sample_code.html]
 
 ## DW検定による残差の自己相関チェック
-[https://yoshi-cow.github.io/statistics.github.io/dtw.html
+[https://yoshi-cow.github.io/statistics.github.io/DW_test.html
