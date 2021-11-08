@@ -27,3 +27,5 @@
 ## 単位根検定
 [https://yoshi-cow.github.io/statistics.github.io/ADF_test.html]
 
+## VARモデル
+[https://yoshi-cow.github.io/statistics.github.io/VAR_model.html
