@@ -33,3 +33,6 @@
 # Granger検定
 [https://yoshi-cow.github.io/statistics.github.io/granger.html]
 
+## 正準相関分析
+[https://yoshi-cow.github.io/statistics.github.io/canonical_correlation_analysis.html]
+
